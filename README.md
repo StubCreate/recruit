@@ -1,9 +1,9 @@
-# recruit
-*Webpack 4 (もしくは 3) で Bootstrap v4.0 を利用するサンプルコード
-*参照:https://laboradian.com/sample-code-bootstrap4-webpack3/
-*これにGulpを足す
+## recruit
+* Webpack 4 (もしくは 3) で Bootstrap v4.0 を利用するサンプルコード
+* 参照:https://laboradian.com/sample-code-bootstrap4-webpack3/
+* これにGulpを足す
 
-*//ディレクトリ
+* //ディレクトリ
 
 *project
 *├─ package.json
